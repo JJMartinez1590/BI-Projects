@@ -1,0 +1,48 @@
+# Last Mile Delivery Performance Analysis
+[👉 View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jose.martinez5381/viz/LastMileDeliveryPerformanceBIDashboard/Dashboard1)
+## Overview
+
+In this project, I analyzed last-mile delivery operations using a dataset containing delivery records enriched with operational variables. The goal was to uncover actionable insights for optimizing delivery efficiency and safety.
+
+## Tools Used
+
+- Google Sheets (Data Cleaning & Preparation)
+- Tableau (Data Visualization & Dashboarding)
+
+## Dataset Features
+
+- Delivery Time
+- Number of Packages Delivered
+- Distance from City Center
+- Driver Experience Level
+- Safety Incidents
+- Vehicle Type (Gas vs Electric)
+- Fulfillment Channel (SFS vs SFDC)
+- Temperature Bands (Cold, Moderate, Hot)
+
+## Key Performance Metrics
+
+- **Avg Delivery Time:** 5.8 hrs
+- **Avg Delivery Efficiency:** 19.82 packages/hour
+- **Avg Safety Incident Rate:** 0.049 incidents/package
+
+## Business Insights
+
+- Experienced drivers demonstrated higher delivery efficiency.
+- Cold weather conditions led to slightly higher delivery times.
+- Electric vehicles showed more stable performance across temperature bands.
+- Higher safety incident rates were observed in longer-distance deliveries, especially for less experienced drivers.
+- Fulfillment channel comparisons revealed performance variations between SFDC and SFS channels.
+
+## Business Value
+
+The interactive Tableau dashboards allow operational teams to:
+
+- Identify driver segments for targeted training.
+- Optimize routing based on experience and weather.
+- Monitor safety incident trends.
+- Compare fulfillment strategies for operational improvements.
+
+---
+
+

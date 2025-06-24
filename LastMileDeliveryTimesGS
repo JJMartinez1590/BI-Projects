@@ -1,0 +1,62 @@
+# Last Mile Delivery Performance Analysis (Google Sheets)
+View Google Sheet here: https://docs.google.com/spreadsheets/d/1hTBnEiSXUs1wCirJlRXSHnhRgkjteBm4UZ0g3pXe8ks/edit?usp=sharing
+## Overview
+
+This project analyzes last-mile delivery operations using Google Sheets to simulate lightweight BI dashboards for operational decision-making. The analysis focuses on delivery time, efficiency, and safety incident rates across driver experience levels, vehicle types, temperature conditions, and fulfillment channels.
+
+## Tools Used
+
+- Google Sheets (data cleaning, feature engineering, pivot tables, visualizations, dashboarding)
+
+## Dataset Features
+
+- Delivery Time
+- Packages Delivered
+- Distance to City Center
+- Driver Experience Level
+- Vehicle Type (Gas vs Electric)
+- Fulfillment Channel
+- Temperature
+- Safety Incidents
+
+## Feature Engineering
+
+The following new fields were created for enhanced analysis:
+
+- `delivery_efficiency` (packages/hour)
+- `distance_efficiency` (miles/hour)
+- `safety_incident_rate` (incidents/package)
+- `experience_level` (banded)
+- `temperature_band` (Cold / Moderate / Hot)
+- Synthetic `trip_id` for unique trip identification
+
+## Key Metrics
+
+| KPI | Value |
+|---|---|
+| **Avg Delivery Time** | 5.77 hrs |
+| **Avg Delivery Efficiency** | 19.82 pck/hr |
+| **Avg Safety Incident Rate** | 0.049 inc/pck |
+
+## Deliverables
+
+- **Pivot Tables** for:
+  - Delivery Time by Experience Level and Vehicle Type
+  - Delivery Efficiency by Experience Level and Vehicle Type
+  - Safety Incident Rate by Experience Level and Distance Efficiency Band
+- **Charts**:
+  - Delivery Time Distribution (Grouped Bar Chart)
+  - Delivery Efficiency Distribution (Grouped Bar Chart)
+  - Safety Incident Heatmap (Conditional Formatting)
+- **Dashboard** combining KPIs, charts, and heatmap into a single operational reporting view inside Google Sheets
+
+## Business Insights
+
+- Delivery efficiency improves consistently with driver experience.
+- Electric vehicles tend to perform slightly better under certain conditions.
+- Safety incidents increase for new drivers, especially on higher distance efficiency routes.
+- Temperature bands show minor but observable impacts on delivery times.
+
+---
+
+*This project simulates a real-world lightweight BI workflow directly in Google Sheets, showcasing end-to-end data preparation, visualization, and operational insights generation.*

@@ -1,0 +1,54 @@
+# 📊 Walmart Store Sales Analysis (2010–2012)
+
+This project explores weekly sales data across Walmart stores from 2010 to 2012 to identify trends, measure the impact of holidays, and assess economic factors influencing performance. Using Tableau, I developed interactive dashboards to help upper management make data-driven decisions across four key focus areas.
+
+---
+
+## 🔍 Project Objectives
+
+- Identify top- and bottom-performing stores by weekly sales  
+- Evaluate the impact of holidays on store-level sales lift  
+- Analyze monthly seasonality and MoM % changes in sales  
+- Assess correlation between sales and economic indicators (Fuel Price, Unemployment Rate, CPI)
+
+---
+
+## 📈 Dashboards Overview
+
+### 1. **Executive Summary (Top-Level KPIs)**
+> A high-level view of total sales, average store performance, and the contribution of holiday weeks. MoM trends highlight December as the strongest sales month with a 30.47% spike.
+
+### 2. **Store Performance Dashboard**
+> Compares weekly sales trends across top 5 and bottom 5 stores. Store 20 leads with over $301M in sales, while Store 33 lags at $37M. Highlights significant performance gaps and sales volatility.
+
+### 3. **Economic Factors Impact**
+> Examines the relationship between sales and economic variables. Findings show Walmart sales remained steady despite changes in fuel prices, unemployment rates, and CPI—demonstrating resilience to macroeconomic pressure.
+
+### 4. **Holiday Sales Impact**
+> Analyzes holiday-related sales lift by store and month. Average holiday sales lift was 7.84%, with Store 7 seeing the highest increase at 19.44%. November accounted for the largest holiday sales volume.
+
+---
+
+## 🧠 Key Insights
+
+- **Holiday weeks** contributed ~7.5% of total revenue over the period  
+- **Store 20** consistently leads in both holiday and non-holiday sales  
+- **November and December** are peak months for seasonal spikes  
+- **Economic variables** showed limited influence on Walmart’s weekly sales
+
+---
+
+## 🛠️ Tools Used
+
+- **Tableau** – Data visualization & dashboard development  
+- **Google Sheets** – Data cleaning and preparation
+
+---
+
+## 📂 Files & Dashboards
+
+- 📊 Tableau Public Link: *[https://public.tableau.com/shared/5WPGDC4H3?:display_count=n&:origin=viz_share_link]*  
+- 📄 Google Sheets: *[https://docs.google.com/spreadsheets/d/1BkcstIyl9rvLd3GfhWx8LWLrpYOwpxn08TCRC7ZBktc/edit?usp=sharing]*
+
+---
+> Written with [StackEdit](https://stackedit.io/).

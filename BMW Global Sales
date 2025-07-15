@@ -1,0 +1,43 @@
+# 🚗 BMW Global Sales Performance Dashboard (2025)
+
+This project analyzes global BMW vehicle sales data across regions, fuel types, and engine sizes. The goal is to uncover performance trends, pricing consistency, and regional classification breakdowns to support strategic decision-making.
+
+https://docs.google.com/spreadsheets/d/1tIr8568injNjNMxy9tQF9PhdpppFLaOdTbwaFMrkzco/edit?usp=sharing
+---
+
+## 📊 Dashboard Overview
+
+Built in **Google Sheets**, the dashboard highlights:
+- 🌍 Total global revenue: **$19 trillion+**
+- 🚘 Units sold: **253 million**
+- 💰 Average vehicle price: **$75,035**
+- ✅ % of high-classification sales: **30%**
+
+### Key Insights:
+- **Asia and Europe** lead in total revenue, each surpassing **$3.1 trillion**
+- **Europe and North America** show the highest concentration of high-performing vehicles (~33–34%)
+- **Engine pricing** remains remarkably stable across Small, Medium, and Large categories
+- **Medium engine vehicles** dominate in volume across all regions
+
+---
+
+
+
+## 🛠 Tools Used
+- **Google Sheets** / **Excel**
+- **Pivot Tables**
+- **KPI Calculations**
+- **Conditional Formatting**
+- **Data Cleaning & Feature Engineering**
+
+---
+
+## 🧠 Skills Demonstrated
+- Business Intelligence Reporting
+- Executive Dashboard Design
+- Data Cleaning & Preprocessing
+- Analytical Storytelling
+- Insight Communication
+
+---
+

@@ -1,0 +1,26 @@
+## 📁 Case Study: Online Sales Performance – Regional & Category Insights
+
+### ⭐ Situation  
+A fictional e-commerce company provided a dataset of 240 online sales transactions across various product categories, regions, and payment methods. The company needed help identifying revenue trends and performance gaps to inform strategic decisions.
+
+### 🎯 Task  
+My goal was to analyze sales trends by **region** and **product category**, highlight top-performing areas, and surface key insights to support data-driven business planning.
+
+### 🔧 Action  
+- Cleaned and prepped the raw sales data using **Excel**, including standardizing text fields, verifying revenue calculations 
+- Imported the cleaned data into **Tableau Public** and built a multi-panel dashboard:
+  - Created **KPI cards** for total revenue, top region, and top product category  
+  - Built a **line chart** to visualize revenue trends over time by region  
+  - Used **bar charts** and a **highlight table** to break down revenue by region and category  
+  - Designed an **insight box** summarizing key takeaways to support decision-making  
+
+### 📈 Result  
+The dashboard revealed that:
+- **North America** was the top-performing region, generating nearly **$36.8K** in revenue (46% of total)  
+- **Electronics** was the leading product category, accounting for 43% of revenue, mostly from North America  
+- Sales peaked in **January**, especially in Europe, with a clear seasonal drop-off mid-year  
+
+This project showcased my ability to turn raw transactional data into clear, visual insights using industry-standard tools like **Excel and Tableau**, and helped sharpen my storytelling skills for business intelligence reporting.
+
+🔗 **View the Tableau Dashboard:**  
+[Online Sales Performance – Tableau Public](https://public.tableau.com/app/profile/jose.martinez5381/viz/OnlineSalesPerformance/Story1?publish=yes)
